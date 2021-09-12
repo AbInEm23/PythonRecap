@@ -1,2 +1,4 @@
 a = 23 
-print(a)
+b = 50
+print(a, b)
+
